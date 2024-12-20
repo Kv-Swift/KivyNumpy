@@ -26,18 +26,18 @@ let package = Package(
         ),
         .binaryTarget(
             name: "libnumpy",
-            url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.8/libnumpy.zip",
-            checksum: "3878b0745b2f27e79d2910708c41f42ed92e9cda57a5549ca46a45b3f5c7a671"
+            url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.9/libnumpy.zip",
+            checksum: "0ce910cb1494aa2c3052c0af64c056a52a700b295446c852367bf8ebde1a61f8"
         ),
         .binaryTarget(
             name: "libnpymath",
-            url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.8/libnpymath.zip",
-            checksum: "b3e30c29d1ff9b81342b31ba1e93c3a4fa4518a79e4e3dccd34d9f85cda3e6c2"
+            url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.9/libnpymath.zip",
+            checksum: "fe546d6bdf90944b46af22d6dc4b2ffd1b9f7b2a303ce057de853e7cf7f6854f"
         ),
         .binaryTarget(
             name: "libnpyrandom",
-            url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.8/libnpyrandom.zip",
-            checksum: "09cfcda5fe320556cc5e4d459dc4777e2b42907830deb6dc9e8ac04b16fe1f2c"
+            url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.9/libnpyrandom.zip",
+            checksum: "8d172de799df897a1f808aca8c17ff2bc483c76d9b68072a105253ad5f6aa0cd"
         )
     ]
 )
