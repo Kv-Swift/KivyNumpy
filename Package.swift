@@ -27,17 +27,17 @@ let package = Package(
         .binaryTarget(
             name: "libnumpy",
             url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.5/libnumpy.zip",
-            checksum: "d133b3f56ec08e27e527eb2b1a55d16e1e820879d436b7b5c582771062b003d4"
+            checksum: "233be8e9891f9c84abe36c4a0acaaba139b1e5d8d72cdaa1e4cbb0d42bb58720"
         ),
         .binaryTarget(
             name: "libnpymath",
             url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.5/libnpymath.zip",
-            checksum: "2d3acfa9d497f815a43f0a1a291ea5871b674632ec2750e3153d4656e8452bd3"
+            checksum: "8bb3c40cab92fa8295bd0bce23ce78db8c392312f63b487db91ef6ff37df4b76"
         ),
         .binaryTarget(
             name: "libnpyrandom",
             url: "https://github.com/kivyswiftlink/KivyNumpy/releases/download/311.0.5/libnpyrandom.zip",
-            checksum: "2f508f02e536495bf97977c9a6bdac05bf29f08896d7802739cba1ca13a41877"
+            checksum: "101b5fc65d5ceb9dd80c350fa389b49f9b63b4ce9e01e1ead21dec820a96e2fd"
         )
     ]
 )
